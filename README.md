@@ -1,2 +1,3 @@
 # hello-world
-Just a learn. 
+Hi Humans!
+I'm a newcomer to GitHub and I want to learn and use it.
